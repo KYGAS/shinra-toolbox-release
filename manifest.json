@@ -95,7 +95,7 @@
         "resources/data/LICENSE": "d62f065830aa3739cc031156b9690805c7b2e811b4a178c8b4acd8725d561c94",
         "resources/data/README.md": "08360f69843461d7c737aac9c92cc7c79c4028cad0a030fc271c4164894c5d84",
         "resources/data/section_images.tsv": "303863ecd63a566547b609670aab15501eaf513254f38f5444f1878a2ff4b36a",
-        "resources/data/servers.txt": "de8536c50368754bdce3a145a100102e53465616f199d34b8e1387720ce88448",
+        "resources/data/servers.txt": "4c2eecb81151cb036a607a16c0f9b4b42fa3e2d345384be4cbb763c29ac70cc4",
         "resources/data/class-icons/archer.png": "443e205979276fdb92244175782af8b0dd36289a430da609360999b0b40aba79",
         "resources/data/class-icons/berserker.png": "6c97e7a09ee329dd6534b5e2f3ed73aa10a9704aa08080dcf9b03740d9fea6c7",
         "resources/data/class-icons/brawler.png": "3812473d79fe2b0c568eb286123b3ca684651b3ea8d95ee971464100710a3fb5",
@@ -220,5 +220,6 @@
         "zh-CN/Lang.resources.dll": "0f406a75a4d3c8676dbf4eccf0ccbdca6cc87609b94723f2dfaf1369b6cd4e14",
         "zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": "d9f15296b109a3e58ab1b88b38513e324e92096be0874b8f957fbd18f3ac7e03",
         "zh-TW/Lang.resources.dll": "6b6c586212cb8123a35b42d69ae62d6418772e8430bca67135ff76c2b80b5d55"
-    }
+    },
+    "defs": {}
 }
