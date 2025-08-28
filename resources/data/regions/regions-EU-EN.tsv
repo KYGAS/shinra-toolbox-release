@@ -5,8 +5,8 @@
 103	Northern Shara
 104	Northern Arun
 105	Exodor Archipelago
-106	City
-107	VALKYRIA
+106	Oscinium Agaia
+107	TERA BATTLE ARENA
 110	Gridiron
 111	Iron Battleground
 112	Fraywind Canyon
@@ -16,8 +16,15 @@
 116	Corsairs' Stronghold
 117	Kumasylum
 118	Kumas Royale
+120	Champion's Arena
 152	Civil Unrest: Velika
+154	Civil Unrest: Island of Dawn
+155	Civil Unrest: Celestial Hills
 156	Gold Coin Tournament
+157	Civil Unrest: Khanovar Front
+158	Kaia's Endless Fight
+159	Civil Unrest: Colossal Ruins
+160	Civil Unrest: Spring Valley
 162	Coastal Battleground
 200	Island of Dawn
 201	Velika
@@ -26,7 +33,7 @@
 204	Poporia
 205	Val Aureum
 206	Ostgarath
-207	Baldera
+207	Baldera District
 208	Velika Wilds
 209	TBD
 210	Allemantheia
@@ -64,6 +71,9 @@
 620	Songbird Event
 622	Songbird Event
 628	Songbird Event
+632	Guild League
+633	Guild League
+634	Guild League
 833	Wyrmgorge
 1001	Ruinweald
 1002	Balderon
@@ -78,7 +88,6 @@
 1011	Renegade Garden
 1012	Crossroads of Agony
 1023	Skill/Event Hunting Zone
-1832	Forbidden Arena [Hagufna]
 2001	Fey Forest
 2002	Woodcutter Palisade
 2003	Faerie Pond
@@ -97,13 +106,16 @@
 2018	Wizened Forest
 2050	Core Area
 2105	Draakon Arena (Solo)
-2106	Catalepticon (Solo)
-2500	City
+2500	Oscinium Agaia
 2501	Manahan Seal Site
 2502	Forest of the Fallen
 2503	Trellum Consurgo
 2504	Exodor Engine Room
+2505	Blitz Barrage
+2506	Echoes of Argonea
 2530	Hero Training Ground
+2600	Harrowhold [Progression]
+2800	Tower of Silent
 3001	Oblivion Woods
 3002	Berzerad Cemetery
 3003	Blood Run
@@ -115,7 +127,6 @@
 3009	Cave of Bleak Echoes
 3010	Bestial Vale
 3011	Vanguard Outpost 
-3012	Training Ground
 3017	Antaroth's Abyss (7-person)
 3018	Dark Reach Citadel (7-person)
 3019	Grotto of Lost Souls (7-person)
@@ -127,47 +138,34 @@
 3027	Forbidden Arena
 3028	[Training] Grotto of Lost Souls (Hard)
 3029	[Training] Antaroth's Abyss (Hard)
-3030	Commander’s Residence
+3030	Commander's Residence
 3031	Outer Core District
 3032	[Training] Akalath Quarantine
 3033	[Training] Gossamer Vault (Hard)
 3034	Rampaging RK-9 Kennel
-3036	Sky Cruiser (Hard)
+3036	Sky Cruiser Endeavor Deck (Extreme)
 3037	[Training] Bahaar's Sanctum
-3040	Lumikan's Trial
-3041	Top of the Damned Citadel
-3042	Gardan's Trial
-3043	Top of Dark Reach Citadel
-3044	Top Floor of the Stormed Citadel
-3045	Dakuryon Depot
-3046	Rogash's Trial
-3047	Hall of the Argon Queen (Hard)
-3048	Secret Training Camp
-3049	Velik's Sanctuary
-3050	Lost Sky Garden
-3051	Island of Glowing Dawn
-3052	Dakuryon Depot
-3053	Velik's Sanctum
-3054	Velik's Dream
-3055	Hall of the Argon Queen (Hard, Solo)
-3056	Ice Throne (Solo)
+3038	Hydrangea
+3041	[Ace] RK-9 Kennel
+3042	[Ace] Thaumetal Refinery
+3044	[Ace] Ruinous Manor
+3051	Veiled Island of Dawn
+3052	Shrine of the Demon God
 3101	Gossamer Vault
 3102	Draakon Arena
 3103	Forbidden Arena
-3104	Catalepticon
-3105	Fusion Laboratory
+3104	Lumikan's Dream
 3106	Killing Grounds
-3107	Desolarus Testing Grounds
-3108	Cursed Antaroth's Abyss
-3109	Ice Throne
+3107	Corrupted RK-9 Kennel
+3111	The Veil (Darkan)
+3113	Scorching Akeron's Inferno (10-Man)
 3126	Corrupted Skynest (Hard)
 3201	Gossamer Vault (Hard)
 3202	Draakon Arena (Hard)
 3203	Forbidden Arena
-3204	Catalepticon (Hard)
-3205	Cursed Fusion Laboratory
+3204	Lumikan's Dream (Hard)
 3206	Crimson Killing Grounds
-3209	Chaos Ice Throne
+4000	Hail's Testing Zone
 4001	Fyrmount
 4002	Brimstone Highlands
 4003	Blazing Vale
@@ -181,7 +179,7 @@
 4011	Tansin Mine
 4012	Akasha's Hideout Entrance
 4013	Edge of the Mountain
-4014	Bahaar's Sanctum Entrance
+4014	Frozen Bahaar's Sanctum Entrance
 5001	Tuwangi Mire
 5002	Tuwangi Garrison
 5003	Babok Hollow
@@ -251,6 +249,7 @@
 9013	Saravash's Ascent Entrance
 9034	Dreadspire
 9044	Bahaar's Sanctum
+9045	Frozen Bahaar's Sanctum
 9054	Bathysmal Rise Entrance
 9056	Timescape (Hard)
 9057	Akeron's Inferno (Hard)
@@ -267,7 +266,7 @@
 9507	The Veil
 9508	Soulscape
 9509	Velika Banquet Redux
-9618	Super Quiz Bowl
+9618	The Colosseum
 9681	Velik's Dream
 9710	Broken Prison
 9720	Antaroth's Abyss
@@ -286,22 +285,22 @@
 9783	Dark Reach Citadel
 9794	Thaumetal Refinery
 9795	Crucible of Fame
-9810	Entrance to Lakan's Prison
+9810	Lakan's Prison Entrance
 9830	Celestial Arena
 9833	Wyrmgorge
 9860	Kalivan's Challenge
 9920	Antaroth's Abyss (Hard)
 9935	RK-9 Kennel (Hard)
 9939	Red Refuge (Hard)
-9950	Harrowhold
+9950	Harrowhold [Sealed Fortress]
 9969	Lilith's Keep (Hard)
 9970	Ruinous Manor (Hard)
 9980	Velik's Hold (Hard)
 9981	Velik's Sanctuary (Hard)
 9982	Grotto of Lost Souls (Hard)
 9983	Dark Reach Citadel (Hard)
+9985	Sanctuary's Ruins (Hard)
 9994	Thaumetal Refinery (Hard)
-9998	Battle Test Room
 9999	TERA Instanced Space
 10001	Serpentis Isle
 10002	Boan Strand
@@ -355,7 +354,7 @@
 13003	Mysterious Ruins
 13004	Tainted Gorge
 13005	Northern Checkpoint
-13006	Shrine of the Demon God
+13006	Shrine of Manahan
 13007	Mathar Spire
 13008	Orcan Bivouac
 13009	Tainted Gorge Bridge
@@ -551,6 +550,10 @@
 25011	Stadium of Sacrifice
 25012	The Portal
 25013	Stadium of Devotion
+25061	Melgatol Portal
+25062	Casian Tree
+25063	Ilithieri Mana Extractor
+25064	Agnurok Engine
 26001	Blessing Basin
 26002	White Hart Run
 26003	Celestus Rest
@@ -605,7 +608,6 @@
 30020	Lighthouse of the Sun Entrance
 30021	Tree of Wisdom
 30022	Teleportal Installation Site
-30561	Ice Throne Entrance
 31000	Lakan's Prison
 31001	Tempest Reach
 31002	Frost Wastes
@@ -617,7 +619,6 @@
 31008	Glacial Bay Research Station
 31009	Beacon Point Garrison
 31010	Batia's Hulk
-31091	Ice Throne Entrance
 32001	Mount Tyrannas
 32002	Daunting Pass
 32003	Winterwolves Encampment
@@ -628,7 +629,6 @@
 32008	Holdouts Redoubt
 32009	Dauntless Palisade
 32010	Acarum Boneyard
-32091	Ice Throne Entrance
 33001	Citadel of Torment
 33002	Path of Torment
 33003	East Supply Route
@@ -656,7 +656,6 @@
 34007	Icebase Stalker
 34008	Wayfarer Camp
 34009	Junaidar Base
-34010	Ice Throne Entrance
 35001	Wyrmgorge
 35002	Zaeltarazad Shrine
 35003	Deathgorge
@@ -928,8 +927,8 @@
 63024	Ring Plaza
 63025	City Teleportal
 63026	Airship Platform
-63027	Entrance to the Super Quiz Bowl
-63028	Super Quiz Bowl
+63027	Super Quiz Bowl Entrance
+63028	The Colosseum
 64001	Tower Base
 64002	Explorer Command Post
 64003	Leander's Outpost
@@ -989,7 +988,7 @@
 76001	Kanstria
 76002	{@Rgn:76001} Flight Platform
 76090	Kanstria Winged Stone
-76901	Entrance to Ruinous Manor (Easy)
+76901	Lilith's Keep and Ruinous Manor Entrance
 77001	Pathfinder Post
 77002	Pathfinder Post Flight Platform
 78001	Zulfikar Fortress
@@ -1055,14 +1054,14 @@
 90014	59–60
 90015	60-65
 90016	70
-90017	71
+90017	71-74
 97201	Antaroth's Abyss Entrance
 99000	Stepstone Isle<br>1–11
 99001	Fey Forest<br>10–15
 99002	Oblivion Woods<br>11–20
 99003	Valley of Titans<br>16–20
 99004	Tuwangi Mire<br>19–23
-99005	Celestial Hills<br>21-25 (66)
+99005	Celestial Hills<br>21–25 (68)
 99006	Cliffs of Insanity<br>23–25
 99007	Vale of the Fang<br>24–29
 99008	Paraanon Ravine<br>24–29
@@ -1075,7 +1074,7 @@
 99015	Colossal Ruins<br>35–38
 99016	Aurum Road<br>35–38
 99017	Blightwood<br>38–41
-99018	Blessing Basin<br>38-41
+99018	Blessing Basin<br>38–41 (65)
 99019	Timeless Woods<br>38–42 (66)
 99020	Essenian Crest<br>38–43 (66)
 99021	Mount Tyrannas<br>40–45
@@ -1089,7 +1088,7 @@
 99029	Darkquaver Woods<br>50–53
 99030	Susurrus Woods<br>50–53
 99031	Amena Quatla Courtyard<br>50–54
-99032	Sienna Canyon<br>53-56 (67)
+99032	Sienna Canyon<br>53–56 (67, 69)
 99033	Tor Exsul<br>53–57
 99034	Wyrmgorge Entrance<br>53–58
 99035	Seeliewood<br>56–59
@@ -1100,12 +1099,12 @@
 99040	Granarkus<br>64–65
 99041	Argonea<br>64
 99042	Khanovar Front<br>63—64
-99043	Balder's Refuge<br>59-60
+99043	Balder's Refuge<br>59–60 (67)
 99044	Savage Reach<br>60–61
 99045	Spring Valley<br>61–62
-99046	Ex Prima<br>62-63 (67)
+99046	Ex Prima<br>62–63 (68)
 99047	Arx Umbra<br>63–65
-99048	Island of Dawn<br>70
+99048	Island of Dawn<br>70-74
 99049	Rogash's Garden<br>70
 99050	Exodor Farmlands<br>71
 99051	Iridian Wetlands<br>72
@@ -1113,7 +1112,7 @@
 99053	Core Area<br>73
 99054	Northern Outskirts<br>73
 99055	Southern Outskirts<br>73
-99100	Baldera<br>71
+99100	Baldera<br>71-74
 99999	Undiscovered
 102001	Wintera Snowfield (Classic)
 103001	Wintera Snowfield
@@ -1159,10 +1158,14 @@
 118001	Gridiron
 118002	Shore Hold
 119001	Coliseum
-139001	Underground Battlepit
+120001	Champion's Arena
+120002	A Team Base
+120003	B Team Base
+120004	Training Sanctum
 152001	Anansha's Nest
 152002	Frygaras' Nest
 152003	Sabranak's Nest
+158001	Kaia's Endless Fight
 172001	Savage Reach
 172011	Eerie Rise
 172012	Boscan Terrace
@@ -1274,23 +1277,26 @@
 250401	Engine Room 1st Floor
 250402	Engine Room 2nd Floor
 250403	Engine Room 3rd Floor
+250601	Echoes of Argonea
+250602	Ilithieri Mana Extractor
+250603	Agnurok Engine
+250604	Melgatol Portal
+250605	Casian Tree
+250606	Echoes of Argonea
+250607	Echoes of Argonea
+250690	Southern Teleport Platform
+250691	Northern Teleport Platform
+250692	Eastern Teleport Platform
+250693	Argon Teleportal
+250694	Undiscovered
 302301	Akalath Quarantine Entrance
 302701	Forbidden Arena Waiting Room
 302702	Forbidden Arena Passage
 303201	[Training] Akalath Quarantine Entrance
-304501	Dakuryon Depot
-304502	Ruinweald
-304701	Hall of the Argon Queen (Hard)
-305101	Island of Glowing Dawn
-305501	Hall of the Argon Queen (Hard, Solo)
 310301	Forbidden Arena Waiting Room
 310302	Forbidden Arena Passage
 320301	Forbidden Arena Waiting Room
 320302	Forbidden Arena Passage
-320501	Fusion Laboratory Entrance
-320901	Chaos Ice Throne
-320902	Ice Throne
-320903	Ice Throne (Solo)
 469001	Arx Umbra: About 50 years ago
 505111	Elenea
 505112	Firespine Outpost
@@ -1362,10 +1368,10 @@
 906913	Anea's Palace Entrance
 907001	Playpen Entrance
 907002	Playpen
-950001	Harrowhold
-950002	Harrowhold Entrance
+950001	Harrowhold [Sealed Fortress]
+950002	Harrowhold [Sealed Fortress] Entrance
 973501	RK-9 Kennel
-973502	Entrance to RK-9 Kennel
+973502	RK-9 Kennel Entrance
 975601	Timescape
 975602	Scarlet Way
 975603	Beyond Thundertrial
@@ -1373,12 +1379,12 @@
 976701	Demokron Factory Entrance
 976702	Odon's Chamber
 976703	Verno's Chamber
-976901	Entrance to Ruinous Manor (Easy)
+976901	Lilith's Keep and Ruinous Manor Entrance
 976902	Burning Garden
 976903	Grand Hall
 976904	Lady's Chamber
 976905	Manor Hallway
-976906	Entrance to Lilith's Keep
+976906	Lilith's Keep Entrance
 978000	Velik's Hold
 978001	Velik's Hold - Entrance
 978002	Outer Passage
@@ -1392,12 +1398,12 @@
 978030	Velik's Gate
 978031	Velik's Gate
 979501	Crucible of Fame
-996901	Entrance to Ruinous Manor (Easy)
+996901	Lilith's Keep and Ruinous Manor Entrance
 996902	Burning Garden
 996903	Grand Hall
 996904	Lady's Chamber
 996905	Manor Hallway
-996906	Entrance to Lilith's Keep
+996906	Lilith's Keep Entrance
 998000	Velik's Hold (Hard)
 998001	Velik's Hold (Hard) - Entrance
 998002	Outer Passage
@@ -1410,7 +1416,6 @@
 998021	Shattered Hall
 998030	Velik's Gate
 998031	Velik's Gate
-999801	Battle Test Room
 1810041	Bathysmal Rise Entrance
 2000000	Rogash's Garden
 2000001	Exodor Farmlands
@@ -1497,7 +1502,6 @@
 2003023	Verrak Fortress Abyss
 2003024	Control Center Rooftop
 2003025	Draakon Arena Entrance
-2003026	Dragon Catching Zone
 2003050	Azart Base
 2003051	Rosema Tribe Residence
 2003052	Kerozen Isle
@@ -1518,11 +1522,21 @@
 2103002	Engine Room 2nd Floor
 2103003	Engine Room 3rd Floor
 2105001	Draakon Arena (Solo)
-2106001	Catalepticon (Solo)
-2500001	City
+2500001	Oscinium Agaia
 2500002	Center
 2500003	Young World Tree
 2500004	Tower of Shara
+2600001	Harrowhold [Progression]
+2600002	Harrowhold [Progression] - Courtyard
+2600003	Harrowhold [Progression] - Cliffs
+2800001	Tower of Silent
+2800002	Tower of Silent
+2800003	Tower of Silent
+2800004	Tower of Silent
+2800005	Tower of Silent
+2800006	Tower of Silent
+2800007	Tower of Silent
+2800008	Tower of Silent
 3001001	Bastion of Lok (Solo)
 3002001	Sinestral Manor (Solo)
 3003001	Cultists' Refuge (Solo)
@@ -1550,8 +1564,8 @@
 3019003	Distortion Field
 3019004	Distortion Field Entrance
 3020000	Sea of Honor
-3024001	Reset dungeon and return
-3025001	Reset dungeon and return
+3024001	Return to your previous location
+3025001	Return to your previous location
 3026001	Corrupted Skynest
 3026002	Kelsaik's Hall
 3026003	Satellite Island
@@ -1570,7 +1584,7 @@
 3029003	[Training] Antaroth's Abyss (Hard) - Chamber of Trials
 3029004	Highwatch
 3029005	Highwatch
-3030001	Commander’s Residence
+3030001	Commander's Residence
 3030002	Federation Reliquary Station
 3031001	Outer Core District
 3031002	Core District
@@ -1585,39 +1599,32 @@
 3034005	Restricted Area: D
 3034006	Restricted Area: E
 3034007	Observation Room
-3035001	Velik’s Sanctum
-3036001	Sky Cruiser (Hard)
-3036002	Sky Cruiser Platform (Hard)
-3036003	Sky Cruiser Control Room (Hard)
-3036004	Sky Cruiser Engine Room (Hard)
-3036005	Sky Cruiser Deck (Hard)
+3035001	Velik's Sanctum
+3036001	Sky Cruiser Endeavor Deck (Extreme)
+3036002	Sky Cruiser Platform (Extreme)
+3036003	Sky Cruiser Control Room (Extreme)
+3036004	Sky Cruiser Engine Room (Extreme)
+3036005	Sky Cruiser Endeavor Deck (Extreme)
 3037000	[Training] Bahaar's Sanctum Entrance
 3037001	[Training] Bahaar's Sanctum
 3037002	[Training] Bahaar's Sanctum - Balder's Seal
 3037003	[Training] Bahaar's Sanctum - Fire Lord's Chamber
 3037004	[Training] Bahaar's Sanctum - Fire Lord's Chamber
-3038001	Dungeon Starting Point
-3038002	Current Location
-3038003	Resurrect at Dungeon Entrance
-3039001	Risk Zone
-3041000	Dark Reach Citadel Entrance
-3041001	Top of the Damned Citadel
-3041002	Top of the Damned Citadel
-3041003	Top of the Damned Citadel
-3042001	Gardan's Trial
-3043000	Dark Reach Citadel Entrance
-3043001	Top of Dark Reach Citadel
-3043002	Top of Dark Reach Citadel
-3043003	Top of Dark Reach Citadel
-3044000	Dark Reach Citadel Entrance
-3044001	Top Floor of the Stormed Citadel
-3044002	Top Floor of the Stormed Citadel
-3044003	Top Floor of the Stormed Citadel
-3047000	Entrance to the Hall of the Argon Queen (Hard)
-3048001	Secret Training Camp
-3050001	Lost Sky Garden
-3051001	Island of Glowing Dawn
-3051002	North Dock
+3039001	Seren's Garden
+3040001	Scorching Sky Cruiser
+3040002	Trellum Consurgo's Southern Gate
+3040003	Messy Control Room
+3040004	Cluttered Engine Room
+3040005	Burning Sky Cruiser Deck
+3043001	[Ace] Sky Cruiser Endeavor
+3043002	[Ace] Sky Cruiser Endeavor
+3043005	[Ace] Sky Cruiser Endeavor
+3044001	Destroyed Garden
+3044002	Destroyed Keep
+3044003	Lady's Chamber
+3044004	Balderon
+3051001	Veiled Island of Dawn
+3051002	Veiled North Dock
 3051003	Timeless Woods
 3051004	Northern Checkpoint
 3051005	Ruined Temple
@@ -1626,18 +1633,10 @@
 3051008	Mysterious Ruins
 3051009	Shrine of Yurian
 3051010	Arun Heights
-3051011	Shrine of the Demon God
+3051011	Shrine of Manahan
 3051012	Tainted Gorge
-3053001	Velik's Sanctum
-3054001	Velik's Dream
-3055000	Entrance to the Hall of the Argon Queen (Hard)
-3056001	Throne Entrance
-3056002	Frosty Corridor
-3056003	Frosty Gate
-3056004	Secret Passage to Laboratory
-3056005	Honor Lab
-3056006	Hidden Path
-3056007	Frosty Throne
+3060001	Hall of the Argon Queen
+3060002	Hall of the Argon Queen
 3101001	Extraction Chamber
 3101002	Regent's Vault
 3101003	Processing Room
@@ -1647,17 +1646,20 @@
 3106001	Killing Grounds
 3106002	Killing Grounds
 3106004	Killing Grounds Entrance
-3107001	Desolarus Testing Grounds Entrance
-3108001	Cursed Antaroth's Abyss
-3108002	Cursed Antaroth's Abyss
-3108004	Cursed Antaroth's Abyss Entrance
-3109001	Throne Entrance
-3109002	Frosty Corridor
-3109003	Frosty Gate
-3109004	Secret Passage to Laboratory
-3109005	Honor Lab
-3109006	Hidden Path
-3109007	Frosty Throne
+3107001	Portal Room
+3107002	Ventilation Room
+3107003	Magnetic Field Testing Room
+3107004	Component Reprocessing Area
+3107005	Restricted Area: D
+3107006	Restricted Area: E
+3107007	Observation Room
+3112001	Raging Manaya's Core
+3112002	Raging Manaya's Core
+3113001	Scorching Akeron's Inferno (10-Man)
+3113002	Scorching Akeron's Inferno (10-Man) Entrance
+3113003	The Hand of Scorching Akeron
+3113004	Scorching Akeron's Reach
+3113005	Theater of Terror
 3201000	Gossamer Vault Entrance
 3201001	Extraction Chamber
 3201002	Regent's Vault
@@ -1665,17 +1667,9 @@
 3202001	Draakon Arena (Hard)
 3202002	Draakon Arena Entrance
 3203001	Forbidden Arena
-3205000	Fusion Laboratory Entrance
 3206001	Crimson Killing Grounds
 3206002	Crimson Killing Grounds
 3206004	Killing Grounds Entrance
-3209001	Throne Entrance
-3209002	Frosty Corridor
-3209003	Frosty Gate
-3209004	Secret Passage to Laboratory
-3209005	Honor Lab
-3209006	Hidden Path
-3209007	Frosty Throne
 5051101	Elenea
 5051201	The Veil
 5051202	The Veil
@@ -1686,16 +1680,19 @@
 5801002	Western Baldera Camp
 5801003	Central Baldera Camp
 5801004	Pegasus Platform
-5801005	Resonance Dungeon
+5801005	Dungeon Entrances
 5801007	Teleportal
-5801008	Flight Management
-5801009	Association Fishmonger
-5801010	Northern Camp
-5801011	Central Camp
+5801008	Teleport Management
+5801009	Fishing Supplies
+5801010	Rest Area
+5801011	Central Balderon
 5801012	Guild Management
 5801013	Hall of Arms
 5801014	Hall of Masterworks
 5801015	Balderon Main Gate
+6302001	[1] Velika Skycastle
+6302002	[2] Allemantheia Skycastle
+6302003	[3] Bastion Skycastle
 8000001	Relic Hunter Outpost
 8000002	Valkyon Federation Headquarters
 8000003	Seekers' Locus
@@ -1753,7 +1750,7 @@
 8000055	Broken Bridge Camp
 8000056	Checkpoint Ebony
 8000057	Gravewatch of the Exiled
-8000058	Entrance to Kelsaik's Nest
+8000058	Kelsaik's Nest Entrance
 8000059	Kaiator Command Center
 8000060	Kaiator Consul's Office
 8000061	Forgeheart
@@ -1795,8 +1792,9 @@
 8000097	Vexatus Swamp Fishery
 8000098	Celsian Lake Fishery
 8000099	Seren's Lake Fishery
-8104000	Entrance to Lakan's Prison
-8104002	Entrance to Broken Prison
+8000100	Scythera Fae Fishery
+8104000	Lakan's Prison Entrance
+8104002	Broken Prison Entrance
 8999001	Velik's Sanctuary
 9001001	Samael's Residence
 9002001	Fountain of Shara
@@ -1837,17 +1835,17 @@
 9026003	Liftwarden's Chamber
 9026004	Hall of the Arbiter
 9026005	Sanctuary of the Seer
-9027001	Manaya's Core (Hard)
+9027001	The Plexus (Hard)
 9027002	The Plexus (Hard)
 9028001	Malachai's Lab
 9029001	Vault of Kaprima
 9029002	Drill Chamber
 9029003	Hall of the Harbinger
 9029004	Resurrection Hall
-9029005	Entrance to Vault of Kaprima
-9031001	Akasha's Trial
-9032001	Baracos' Trial
-9033001	Krakatox's Trial
+9029005	Vault of Kaprima Entrance
+9031001	[Ace] Akasha's Hideout
+9032001	[Ace] Golden Labyrinth
+9033001	[Ace] The Abscess
 9034001	Dreadspire Entrance
 9034002	Dreadspire: 2nd Challenge
 9034003	Dreadspire: 3rd Challenge
@@ -1859,6 +1857,9 @@
 9034009	Dreadspire: 9th Challenge
 9034010	Dreadspire: 10th Challenge
 9034011	Dreadspire: 1st Challenge
+9034101	Dreadspire
+9034102	Dreadspire Hall
+9034103	Dreadspire Ruins
 9036001	Karascha's Lair
 9037001	Tainted Gorge Bridge
 9038001	Mysterious Jungle
@@ -1890,14 +1891,17 @@
 9044002	Bahaar's Sanctum - Balder's Seal
 9044003	Bahaar's Sanctum - Fire Lord's Chamber
 9044004	Bahaar's Sanctum - Fire Lord's Chamber
-9045001	Bluefist Mountain
-9045002	Lilipart Village
+9045000	Frozen Bahaar's Sanctum Entrance
+9045001	Frozen Bahaar's Sanctum
+9045002	Frozen Bahaar's Sanctum - Balder's Seal
+9045003	Frozen Bahaar's Sanctum - Ice Lord's Chamber
+9045004	Frozen Bahaar's Sanctum - Ice Lord's Chamber
 9046001	Accursed Oasis
 9046002	Giant Growth Testing Ground
 9047001	Harvest Festival Hall
 9048001	Dice Instance Dungeon (Temp Title)
 9048002	Dice Instance Dungeon (Temp Title)
-9050000	Entrance to Rift's Edge
+9050000	Rift's Edge Entrance
 9050001	Guwangi Village
 9050002	Guwangi Village Landing
 9050003	Garden of Yativio
@@ -1933,7 +1937,7 @@
 9055003	The Gorger's Grotto
 9055004	Den of the Devourer
 9055005	Nest of Nimistrix
-9055008	Entrance to Ravenous Gorge
+9055008	Ravenous Gorge Entrance
 9055009	Nest of Nimistrix
 9056001	Timescape Entrance
 9056002	Thundertrial
@@ -2033,7 +2037,6 @@
 9094003	Second Trial Terrace
 9094004	Third Trial Terrace
 9094005	Final Terrace
-9094006	Lost Sky Garden
 9095001	Crucible of Flame
 9095002	Crucible Foundation
 9095003	Crucible Bower
@@ -2043,6 +2046,10 @@
 9095007	Crucible Hub
 9095008	East Brazier
 9096001	Sirjuka Gallery
+9121100	Velika Outskirts Hall
+9121101	The Barrens
+9121200	Velika Outskirts Hall Main Floor
+9121300	Velika Outskirts Hall Second Floor
 9124002	Velika—Velik's Steps
 9126001	Pit of Petrax
 9126002	Training Ground
@@ -2051,7 +2058,7 @@
 9128101	Kaiator—Plaza of Triumph
 9503001	Valkyon Federation Commander Residence
 9611001	The Abscess (Hard) 
-9618001	Super Quiz Bowl
+9618001	The Colosseum
 9643001	Wonderholme
 9643002	Mockinghall
 9643011	Great Hall
@@ -2078,7 +2085,7 @@
 9710003	Chamber of Woe
 9710004	Gallery of Despair
 9711001	The Abscess (Hard)
-9711002	Entrance to the Abscess
+9711002	The Abscess Entrance
 9713001	Ghillieglade Entrance
 9713002	Ghillieglade Entrance
 9713003	Gatekeeper's Grotto
@@ -2090,7 +2097,6 @@
 9716003	Control Room
 9716004	Engine Room
 9716005	Sky Cruiser Deck
-9716006	Sky Cruiser Entrance (Hard)
 9720000	Antaroth's Abyss - Entrance
 9720001	Antaroth's Abyss - The Confines
 9720002	Antaroth's Abyss - Execution Ground
@@ -2150,7 +2156,7 @@
 9756004	Timecore
 9756005	Timecore
 9757001	Akeron's Inferno
-9757002	Entrance to Akeron's Inferno
+9757002	Akeron's Inferno Entrance
 9757003	The Hand of Akeron
 9757004	Akeron's Reach
 9757005	Theater of Terror
@@ -2161,8 +2167,8 @@
 9760005	Cargo Hold
 9760006	Sentry Ship Deck
 9766001	Shattered Fleet
-9766002	Entrance to the Shattered Fleet
-9766003	Entrance to the Shattered Fleet
+9766002	Shattered Fleet Entrance
+9766003	Shattered Fleet Entrance
 9768001	Shadow Sanguinary
 9768002	Guardian's Chamber
 9768003	Bloodshard Repository
@@ -2171,7 +2177,7 @@
 9770001	Destroyed Garden
 9770002	Destroyed Keep
 9770003	Lady's Chamber
-9770004	Entrance to Ruinous Manor
+9770004	Ruinous Manor Entrance
 9773001	Ebon Tower (Hard)
 9773002	Ebon Tower (Hard) - Primus
 9773003	Ebon Tower (Hard) - Secundus
@@ -2225,7 +2231,7 @@
 9794001	Hidden Cave Entrance
 9794002	Refinery Mine
 9794003	Transgoblification Lab
-9794004	Entrance to Thaumetal Refinery
+9794004	Thaumetal Refinery Entrance
 9801001	Nexus Traverse
 9801002	Velika 
 9801003	Allemantheia 
@@ -2254,7 +2260,7 @@
 9810004	Lakan's Prison (Path of Lakan)
 9810005	Lakan's Prison (Chamber of Worship)
 9811001	The Abscess
-9811002	Entrance to the Abscess
+9811002	The Abscess Entrance
 9813001	Ghillieglade (Solo)
 9813002	Ghillieglade Entrance
 9813003	Gatekeeper's Grotto
@@ -2277,7 +2283,7 @@
 9825097	Room of Relics
 9825098	Temple Bridge
 9830001	Celestial Arena
-9830002	Return
+9830002	Highwatch
 9833003	Croskurn Approach
 9833004	Croskurn Mines
 9833005	Firespine Outpost
@@ -2355,13 +2361,13 @@
 9939002	Red Refuge (Hard) - Armory
 9939003	Refuge Outskirts
 9939004	Infiltration Route
-9950001	Harrowhold
-9950002	Harrowhold - Courtyard
-9950003	Harrowhold - Cliffs
+9950001	Harrowhold [Sealed Fortress]
+9950002	Harrowhold [Sealed Fortress] - Courtyard
+9950003	Harrowhold [Sealed Fortress] - Cliffs
 9970001	Destroyed Garden
 9970002	Destroyed Keep
 9970003	Lady's Chamber
-9970004	Entrance to Ruinous Manor
+9970004	Ruinous Manor Entrance
 9975001	Kelsaik's Raid (20-Person)
 9975002	Guardian's Chamber (20-Person)
 9975003	Kelsaik's Hall (20-Person)
@@ -2376,7 +2382,7 @@
 9981005	Velik's Sanctuary (Hard) - Bypass
 9981006	Velik's Hold
 9981007	Velik's Sanctuary (Hard) - Entrance
-9982000	Grotto of Lost Souls (Hard) Entrance
+9982000	Grotto of Lost Souls Entrance
 9982001	Nedra's Haven
 9982002	Killing Ground
 9982003	Distortion Field
@@ -2385,6 +2391,13 @@
 9983001	Grand Plaza
 9983002	Library
 9983003	Ramparts
+9985001	Sanctuary's Ruins (Hard) - Garden
+9985002	Sanctuary's Ruins (Hard) - Meeting Room
+9985003	Sanctuary's Ruins (Hard) - Velik's Shrine
+9985004	Sanctuary's Ruins (Hard) - Main Square
+9985005	Sanctuary's Ruins (Hard) - Bypass
+9985006	Velik's Hold
+9985007	Sanctuary's Ruins (Hard) - Entrance
 9990001	Attack!
 9990002	Defend!
 9990003	Danger!
@@ -2398,7 +2411,7 @@
 10230002	Azart Hatchery
 25002501	Manahan Seal Site
 25002502	Forest of the Fallen
-25002503	Paesyn’s New World
+25002503	Paesyn's New World
 25002504	Operation Exodor
 25002530	Hero Training Ground
 25002531	Noble Cleric of Restoration
@@ -2413,24 +2426,15 @@
 30321002	[Training] Akalath Quarantine - Laboratory
 30371000	[Training] Bahaar's Sanctum
 31030001	Forbidden Arena [Undying Warlord]
-31060001	Killing Grounds
-31060002	Killing Grounds Entrance
-31080001	Cursed Antaroth's Abyss
-31080002	Cursed Antaroth's Abyss Entrance
 32030001	Forbidden Arena [Nightmare Undying Warlord]
-32050011	Fusion Laboratory
-32050012	Cursed Fusion Laboratory
-32050021	Verrak Fortress
 32060001	Crimson Killing Grounds
 32060002	Killing Grounds Entrance
-63007007	Guild Conquest Ranked Battle: {seasonId}
-83070101	Dungeon Advisor
+70231000	Vale of the Reaper - Perdidrax's Nest
+80010000	Valgurati Stronghold - Mastermind's Lair
+80010001	Ilithieri Mana Extractor - Predator's Den
 96431504	Shortcut
-200050103	Inside Rogash's Manor
-200050104	Near Rogash's Manor
-200050105	Inside the Verrak Fortress
-200321061	Catalepticon (Solo)
-200321062	Catalepticon
-200321063	Catalepticon (Hard)
+200321062	Lumikan's Dream
+200321063	Lumikan's Dream (Hard)
 302700001	Forbidden Arena Entrance
-320400001	Catalepticon Entrance
+320400001	Lumikan's Dream (Hard)
+320400002	Lumikan's Dream Entrance

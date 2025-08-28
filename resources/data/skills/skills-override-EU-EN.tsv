@@ -4,9 +4,20 @@
 8400080	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
 8400100	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
 8400120	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+51010	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51011	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51012	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51013	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51014	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51015	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51016	Common	Common	Gunner	Burst Fire X!	False		icon_skills.gatlingshot_tex
+51017	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51018	Common	Common	Gunner	Burst Fire X!!	False		icon_skills.gatlingshot_tex
 51026	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
-51036	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
+51027	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
+51028	Common	Common	Gunner	Targeted Burst Fire!!	False		icon_skills.gatlingshot_awaken_tex
+51031	Common	Common	Gunner	Targeted Burst Fire Sub	False		icon_skills.gatlingshot_awaken_tex
+51032	Common	Common	Gunner	Targeted Burst Fire Sub	False		icon_skills.gatlingshot_awaken_tex
 61122	Common	Common	Gunner	Time Bomb XI!	False	Boom	icon_skills.timebombshot_tex
 71121	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
 71122	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
