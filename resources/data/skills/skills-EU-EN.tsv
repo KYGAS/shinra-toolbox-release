@@ -98,7 +98,7 @@
 31111	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
 31112	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
 31113	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
-31170	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
+31170	Common	Common	Archer	Enhanced Radiant Arrow	False		icon_skills.chargearrow_tex
 31180	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
 31181	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
 31182	Common	Common	Archer	Radiant Arrow XI	False		icon_skills.chargearrow_tex
@@ -163,6 +163,11 @@
 41211	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
 41212	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
 41213	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
+41270	Common	Common	Archer	Enhanced Penetrating Arrow	False		icon_skills.througharrow_tex
+41280	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
+41281	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
+41282	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
+41283	Common	Common	Archer	Penetrating Arrow XII	False		icon_skills.througharrow_tex
 50100	Common	Common	Archer	Rain of Arrows I	False		icon_skills.arrowfall_tex
 50120	Common	Common	Archer	Rain of Arrows I	False		icon_skills.arrowfall_tex
 50200	Common	Common	Archer	Rain of Arrows II	False		icon_skills.arrowfall_tex
@@ -697,15 +702,15 @@
 31012	Common	Common	Berserker	Thunder Strike X	False		icon_skills.blastslash_tex
 31013	Common	Common	Berserker	Thunder Strike X	False		icon_skills.blastslash_tex
 31100	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
-31110	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31111	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31112	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31113	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
+31110	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31111	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31112	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31113	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
 31120	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31121	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31122	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31123	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
-31124	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
+31121	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31122	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31123	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
+31124	Common	Common	Berserker	Thunder Strike XI	False		icon_skills.blastslash_tex
 31200	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
 31210	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
 31211	Common	Common	Berserker	Enhanced Thunder Strike	False		icon_skills.blastslash_tex
@@ -865,15 +870,15 @@
 101012	Common	Common	Berserker	Cyclone X	False		icon_skills.whirlwind_tex
 101013	Common	Common	Berserker	Cyclone X	False		icon_skills.whirlwind_tex
 101100	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
-101110	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101111	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101112	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101113	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
+101110	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101111	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101112	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101113	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
 101120	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101121	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101122	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101123	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
-101124	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
+101121	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101122	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101123	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
+101124	Common	Common	Berserker	Cyclone XI	False		icon_skills.whirlwind_tex
 101200	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
 101210	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
 101211	Common	Common	Berserker	Enhanced Cyclone	False		icon_skills.whirlwind_tex
@@ -1048,9 +1053,9 @@
 210200	Common	Common	Berserker	Bloodlust II	False		icon_skills.fury_tex
 210300	Common	Common	Berserker	Bloodlust III	False		icon_skills.fury_tex
 210400	Common	Common	Berserker	Bloodlust IV	False		icon_skills.fury_tex
-213100	Common	Common	Berserker	Bloodlustunk	False		icon_skills.fury_tex
-213200	Common	Common	Berserker	Bloodlustunk	False		icon_skills.fury_tex
-213300	Common	Common	Berserker	Bloodlustunk	False		icon_skills.fury_tex
+213100	Common	Common	Berserker	Bloodlust II	False		icon_skills.fury_tex
+213200	Common	Common	Berserker	Bloodlust II	False		icon_skills.fury_tex
+213300	Common	Common	Berserker	Bloodlust II	False		icon_skills.fury_tex
 240100	Common	Common	Berserker	Evasive Smash I	False		icon_skills.ribbreaker_tex
 240105	Common	Common	Berserker	Evasive Smash I	False		icon_skills.ribbreaker_tex
 240110	Common	Common	Berserker	Evasive Smash I	False		icon_skills.ribbreaker_tex
@@ -1956,14 +1961,14 @@
 50900	Common	Common	Gunner	Burst Fire IX	False		icon_skills.gatlingshot_tex
 50901	Common	Common	Gunner	Burst Fire IX	False		icon_skills.gatlingshot_tex
 51000	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
-51010	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
-51011	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
-51012	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
-51013	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
+51010	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51011	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51012	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51013	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51020	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 51021	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
-51022	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
-51023	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
+51022	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51023	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51031	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 51032	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 60100	Common	Common	Gunner	Time Bomb I	False		icon_skills.timebombshot_tex
@@ -2212,12 +2217,12 @@
 91033	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
 91034	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
 91035	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
-93112	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
-93131	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
-93132	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
-93133	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
-93134	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
-93135	Common	Common	Gunner	Mana Missilesunk	False		icon_skills.aimedshot_tex
+93112	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
+93131	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
+93132	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
+93133	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
+93134	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
+93135	Common	Common	Gunner	Mana Missiles X	False		icon_skills.aimedshot_tex
 100100	Common	Common	Gunner	Arc Bomb I	False		icon_skills.arcanegrenadethrow_tex
 100101	Common	Common	Gunner	Arc Bomb I	False		icon_skills.arcanegrenadethrow_tex
 100102	Common	Common	Gunner	Arc Bomb I	False		icon_skills.arcanegrenadethrow_tex
@@ -2300,44 +2305,44 @@
 100924	Common	Common	Gunner	Arc Bomb IX	False		icon_skills.arcanegrenadethrow_tex
 100930	Common	Common	Gunner	Arc Bomb IX	False		icon_skills.arcanegrenadethrow_tex
 110100	Common	Common	Gunner	Rocket Jump I	False		icon_skills.rocketjump_tex
-110101	Common	Common	Gunner	Super Rocket Jump I	False		icon_skills.superrocketjump_tex
-110102	Common	Common	Gunner	Super Rocket Jump I	False		icon_skills.superrocketjump_tex
-110130	Common	Common	Gunner	Super Rocket Jump I	False		icon_skills.superrocketjump_tex
+110101	Common	Common	Gunner	Rocket Jump I	False		icon_skills.rocketjump_tex
+110102	Common	Common	Gunner	Rocket Jump I	False		icon_skills.rocketjump_tex
+110130	Common	Common	Gunner	Rocket Jump I	False		icon_skills.rocketjump_tex
 110131	Common	Common	Gunner	Super Rocket Jump I	False		icon_skills.superrocketjump_tex
 110200	Common	Common	Gunner	Rocket Jump II	False		icon_skills.rocketjump_tex
-110201	Common	Common	Gunner	Super Rocket Jump II	False		icon_skills.superrocketjump_tex
-110202	Common	Common	Gunner	Super Rocket Jump II	False		icon_skills.superrocketjump_tex
-110230	Common	Common	Gunner	Super Rocket Jump II	False		icon_skills.superrocketjump_tex
+110201	Common	Common	Gunner	Rocket Jump II	False		icon_skills.rocketjump_tex
+110202	Common	Common	Gunner	Rocket Jump II	False		icon_skills.rocketjump_tex
+110230	Common	Common	Gunner	Rocket Jump II	False		icon_skills.rocketjump_tex
 110231	Common	Common	Gunner	Super Rocket Jump II	False		icon_skills.superrocketjump_tex
 110300	Common	Common	Gunner	Rocket Jump III	False		icon_skills.rocketjump_tex
-110301	Common	Common	Gunner	Super Rocket Jump III	False		icon_skills.superrocketjump_tex
-110302	Common	Common	Gunner	Super Rocket Jump III	False		icon_skills.superrocketjump_tex
-110330	Common	Common	Gunner	Super Rocket Jump III	False		icon_skills.superrocketjump_tex
+110301	Common	Common	Gunner	Rocket Jump III	False		icon_skills.rocketjump_tex
+110302	Common	Common	Gunner	Rocket Jump III	False		icon_skills.rocketjump_tex
+110330	Common	Common	Gunner	Rocket Jump III	False		icon_skills.rocketjump_tex
 110331	Common	Common	Gunner	Super Rocket Jump III	False		icon_skills.superrocketjump_tex
 110400	Common	Common	Gunner	Rocket Jump IV	False		icon_skills.rocketjump_tex
-110401	Common	Common	Gunner	Super Rocket Jump IV	False		icon_skills.superrocketjump_tex
-110402	Common	Common	Gunner	Super Rocket Jump IV	False		icon_skills.superrocketjump_tex
-110430	Common	Common	Gunner	Super Rocket Jump IV	False		icon_skills.superrocketjump_tex
+110401	Common	Common	Gunner	Rocket Jump IV	False		icon_skills.rocketjump_tex
+110402	Common	Common	Gunner	Rocket Jump IV	False		icon_skills.rocketjump_tex
+110430	Common	Common	Gunner	Rocket Jump IV	False		icon_skills.rocketjump_tex
 110431	Common	Common	Gunner	Super Rocket Jump IV	False		icon_skills.superrocketjump_tex
 110500	Common	Common	Gunner	Rocket Jump V	False		icon_skills.rocketjump_tex
-110501	Common	Common	Gunner	Super Rocket Jump V	False		icon_skills.superrocketjump_tex
-110502	Common	Common	Gunner	Super Rocket Jump V	False		icon_skills.superrocketjump_tex
-110530	Common	Common	Gunner	Super Rocket Jump V	False		icon_skills.superrocketjump_tex
+110501	Common	Common	Gunner	Rocket Jump V	False		icon_skills.rocketjump_tex
+110502	Common	Common	Gunner	Rocket Jump V	False		icon_skills.rocketjump_tex
+110530	Common	Common	Gunner	Rocket Jump V	False		icon_skills.rocketjump_tex
 110531	Common	Common	Gunner	Super Rocket Jump V	False		icon_skills.superrocketjump_tex
 110600	Common	Common	Gunner	Rocket Jump VI	False		icon_skills.rocketjump_tex
-110601	Common	Common	Gunner	Super Rocket Jump VI	False		icon_skills.superrocketjump_tex
-110602	Common	Common	Gunner	Super Rocket Jump VI	False		icon_skills.superrocketjump_tex
-110630	Common	Common	Gunner	Super Rocket Jump VI	False		icon_skills.superrocketjump_tex
+110601	Common	Common	Gunner	Rocket Jump VI	False		icon_skills.rocketjump_tex
+110602	Common	Common	Gunner	Rocket Jump VI	False		icon_skills.rocketjump_tex
+110630	Common	Common	Gunner	Rocket Jump VI	False		icon_skills.rocketjump_tex
 110631	Common	Common	Gunner	Super Rocket Jump VI	False		icon_skills.superrocketjump_tex
 110700	Common	Common	Gunner	Rocket Jump VII	False		icon_skills.rocketjump_tex
-110701	Common	Common	Gunner	Super Rocket Jump VII	False		icon_skills.superrocketjump_tex
-110702	Common	Common	Gunner	Super Rocket Jump VII	False		icon_skills.superrocketjump_tex
-110730	Common	Common	Gunner	Super Rocket Jump VII	False		icon_skills.superrocketjump_tex
+110701	Common	Common	Gunner	Rocket Jump VII	False		icon_skills.rocketjump_tex
+110702	Common	Common	Gunner	Rocket Jump VII	False		icon_skills.rocketjump_tex
+110730	Common	Common	Gunner	Rocket Jump VII	False		icon_skills.rocketjump_tex
 110731	Common	Common	Gunner	Super Rocket Jump VII	False		icon_skills.superrocketjump_tex
 110800	Common	Common	Gunner	Rocket Jump VIII	False		icon_skills.rocketjump_tex
-110801	Common	Common	Gunner	Super Rocket Jump VIII	False		icon_skills.superrocketjump_tex
-110802	Common	Common	Gunner	Super Rocket Jump VIII	False		icon_skills.superrocketjump_tex
-110830	Common	Common	Gunner	Super Rocket Jump VIII	False		icon_skills.superrocketjump_tex
+110801	Common	Common	Gunner	Rocket Jump VIII	False		icon_skills.rocketjump_tex
+110802	Common	Common	Gunner	Rocket Jump VIII	False		icon_skills.rocketjump_tex
+110830	Common	Common	Gunner	Rocket Jump VIII	False		icon_skills.rocketjump_tex
 110831	Common	Common	Gunner	Super Rocket Jump VIII	False		icon_skills.superrocketjump_tex
 120120	Common	Common	Gunner	Electric Bomb I	False		icon_skills.command_electricballshot_tex
 120220	Common	Common	Gunner	Electric Bomb II	False		icon_skills.command_electricballshot_tex
@@ -2838,34 +2843,35 @@
 11502	Common	Common	Mystic	Sharan Bolt XV	False		icon_skills.elementalshot_tex
 11503	Common	Common	Mystic	Sharan Bolt XV	False		icon_skills.elementalshot_tex
 20100	Common	Common	Mystic	Corruption Ring I	False		icon_skills.suckhp_tex
-20111	Common	Common	Mystic	Infusion Ring I	False		icon_skills.mpsupplycharge_tex
+20111	Common	Common	Mystic	Corruption Ring I	False		icon_skills.suckhp_tex
 20112	Common	Common	Mystic	Infusion Ring I	False		icon_skills.mpsupplycharge_tex
 20200	Common	Common	Mystic	Corruption Ring II	False		icon_skills.suckhp_tex
-20211	Common	Common	Mystic	Infusion Ring II	False		icon_skills.mpsupplycharge_tex
+20211	Common	Common	Mystic	Corruption Ring II	False		icon_skills.suckhp_tex
 20212	Common	Common	Mystic	Infusion Ring II	False		icon_skills.mpsupplycharge_tex
 20300	Common	Common	Mystic	Corruption Ring III	False		icon_skills.suckhp_tex
-20311	Common	Common	Mystic	Infusion Ring III	False		icon_skills.mpsupplycharge_tex
+20311	Common	Common	Mystic	Corruption Ring III	False		icon_skills.suckhp_tex
 20312	Common	Common	Mystic	Infusion Ring III	False		icon_skills.mpsupplycharge_tex
 20400	Common	Common	Mystic	Corruption Ring IV	False		icon_skills.suckhp_tex
-20411	Common	Common	Mystic	Infusion Ring IV	False		icon_skills.mpsupplycharge_tex
+20411	Common	Common	Mystic	Corruption Ring IV	False		icon_skills.suckhp_tex
 20412	Common	Common	Mystic	Infusion Ring IV	False		icon_skills.mpsupplycharge_tex
 20500	Common	Common	Mystic	Corruption Ring V	False		icon_skills.suckhp_tex
-20511	Common	Common	Mystic	Infusion Ring V	False		icon_skills.mpsupplycharge_tex
+20511	Common	Common	Mystic	Corruption Ring V	False		icon_skills.suckhp_tex
 20512	Common	Common	Mystic	Infusion Ring V	False		icon_skills.mpsupplycharge_tex
 20600	Common	Common	Mystic	Corruption Ring VI	False		icon_skills.suckhp_tex
-20611	Common	Common	Mystic	Infusion Ring VI	False		icon_skills.mpsupplycharge_tex
+20611	Common	Common	Mystic	Corruption Ring VI	False		icon_skills.suckhp_tex
 20612	Common	Common	Mystic	Infusion Ring VI	False		icon_skills.mpsupplycharge_tex
 20700	Common	Common	Mystic	Corruption Ring VII	False		icon_skills.suckhp_tex
-20711	Common	Common	Mystic	Infusion Ring VII	False		icon_skills.mpsupplycharge_tex
+20711	Common	Common	Mystic	Corruption Ring VII	False		icon_skills.suckhp_tex
 20712	Common	Common	Mystic	Infusion Ring VII	False		icon_skills.mpsupplycharge_tex
 20800	Common	Common	Mystic	Corruption Ring VIII	False		icon_skills.suckhp_tex
-20811	Common	Common	Mystic	Infusion Ring VIII	False		icon_skills.mpsupplycharge_tex
+20811	Common	Common	Mystic	Corruption Ring VIII	False		icon_skills.suckhp_tex
 20812	Common	Common	Mystic	Infusion Ring VIII	False		icon_skills.mpsupplycharge_tex
+20813	Common	Common	Mystic	Enhanced Infusion Ring	False		icon_skills.mpsupplycharge_tex
 20900	Common	Common	Mystic	Corruption Ring IX	False		icon_skills.suckhp_tex
-20911	Common	Common	Mystic	Infusion Ring IX	False		icon_skills.mpsupplycharge_tex
+20911	Common	Common	Mystic	Corruption Ring IX	False		icon_skills.suckhp_tex
 20912	Common	Common	Mystic	Infusion Ring IX	False		icon_skills.mpsupplycharge_tex
 21000	Common	Common	Mystic	Corruption Ring X	False		icon_skills.suckhp_tex
-21011	Common	Common	Mystic	Infusion Ring X	False		icon_skills.mpsupplycharge_tex
+21011	Common	Common	Mystic	Corruption Ring X	False		icon_skills.suckhp_tex
 21012	Common	Common	Mystic	Infusion Ring X	False		icon_skills.mpsupplycharge_tex
 21100	Common	Common	Mystic	Infusion Ring XI	False		icon_skills.mpsupplycharge_tex
 21111	Common	Common	Mystic	Infusion Ring XI	False		icon_skills.mpsupplycharge_tex
@@ -2918,10 +2924,10 @@
 51110	Common	Common	Mystic	Titanic Favor XI	False		icon_skills.healshot_tex
 51200	Common	Common	Mystic	Titanic Favor XII	False		icon_skills.healshot_tex
 51210	Common	Common	Mystic	Titanic Favor XII	False		icon_skills.healshot_tex
-53000	Common	Common	Mystic	Titanic Favorunk	False		icon_skills.healshot_tex
-53010	Common	Common	Mystic	Titanic Favorunk	False		icon_skills.healshot_tex
-53100	Common	Common	Mystic	Titanic Favorunk	False		icon_skills.healshot_tex
-53110	Common	Common	Mystic	Titanic Favorunk	False		icon_skills.healshot_tex
+53000	Common	Common	Mystic	Titanic Favor X	False		icon_skills.healshot_tex
+53010	Common	Common	Mystic	Titanic Favor X	False		icon_skills.healshot_tex
+53100	Common	Common	Mystic	Titanic Favor X	False		icon_skills.healshot_tex
+53110	Common	Common	Mystic	Titanic Favor X	False		icon_skills.healshot_tex
 60100	Common	Common	Mystic	Shara's Lash	False		icon_skills.flashball_tex
 60120	Common	Common	Mystic	Shara's Lash	False		icon_skills.flashball_tex
 60200	Common	Common	Mystic	Shara's Lash	False		icon_skills.flashball_tex
@@ -3081,6 +3087,8 @@
 211200	Common	Common	Mystic	Retaliate XII	False		icon_skills.risingattack_tex
 220100	Common	Common	Mystic	Arun's Tears	False		icon_skills.mprefresher_tex
 220110	Common	Common	Mystic	Arun's Tears	False		icon_skills.mprefresher_tex
+220200	Common	Common	Mystic	Arun's Tears	False		icon_skills.mprefresher_tex
+220210	Common	Common	Mystic	Arun's Tears	False		icon_skills.mprefresher_tex
 230100	Common	Common	Mystic	Metamorphic Smite I	False		icon_skills.rageofearth_tex
 230130	Common	Common	Mystic	Metamorphic Smite I	False		icon_skills.rageofearth_tex
 230200	Common	Common	Mystic	Metamorphic Smite II	False		icon_skills.rageofearth_tex
@@ -3307,13 +3315,13 @@
 420920	Common	Common	Mystic	Boomerang Pulse IX	False		icon_skills.mysticorb_tex
 421000	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
 421020	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
-423000	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423020	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423100	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423120	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423200	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423220	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
-423221	Common	Common	Mystic	Boomerang Pulseunk	False		icon_skills.mysticorb_tex
+423000	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423020	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423100	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423120	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423200	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423220	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
+423221	Common	Common	Mystic	Boomerang Pulse X	False		icon_skills.mysticorb_tex
 430100	Common	Common	Mystic	Unsummon Thrall	False		icon_skills.petskill_buff_tex
 440100	Common	Common	Mystic	Mass Teleport	False		icon_skills.masstel_tex
 450100	Common	Common	Mystic	Thrall Augmentation	False		icon_skills.spiritedness_tex
@@ -3633,18 +3641,18 @@
 50920	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
 50921	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
 50930	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
-53100	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53120	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53121	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53130	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53200	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53220	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53221	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53230	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53300	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53320	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53321	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
-53330	Common	Common	Ninja	Impact Bombunk	False		icon_skills.c12_flamebomb
+53100	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53120	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53121	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53130	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53200	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53220	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53221	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53230	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53300	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53320	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53321	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
+53330	Common	Common	Ninja	Impact Bomb IX	False		icon_skills.c12_flamebomb
 60100	Common	Common	Ninja	One Thousand Cuts I	False		icon_skills.c12_rapidslash
 60101	Common	Common	Ninja	One Thousand Cuts I	False		icon_skills.c12_rapidslash
 60110	Common	Common	Ninja	One Thousand Cuts I	False		icon_skills.c12_rapidslash
@@ -3706,13 +3714,13 @@
 80102	Common	Common	Ninja	Fire Avalanche I	False		icon_skills.c12_flamestrike
 80130	Common	Common	Ninja	Fire Avalanche I	False		icon_skills.c12_flamestrike
 80200	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
-80201	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
-80202	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
-80203	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
-80230	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
-80231	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
+80201	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
+80202	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
+80203	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
+80230	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
+80231	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
 80251	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
-80252	Common	Common	Ninja	Harmonious Fire Avalanche	False		icon_skills.c12_flamestrike_awaken
+80252	Common	Common	Ninja	Fire Avalanche II	False		icon_skills.c12_flamestrike
 90100	Common	Common	Ninja	Smoke Bomb	False		icon_skills.c12_smokebomb
 90120	Common	Common	Ninja	Smoke Bomb	False		icon_skills.c12_smokebomb
 90121	Common	Common	Ninja	Smoke Bomb	False		icon_skills.c12_smokebomb
@@ -3925,19 +3933,19 @@
 150609	Common	Common	Ninja	Burning Heart VI	False		icon_skills.c12_flamebreath
 150620	Common	Common	Ninja	Burning Heart VI	False		icon_skills.c12_flamebreath
 150700	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
-150701	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150702	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150703	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150704	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150705	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150706	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150707	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150708	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150709	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150710	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150720	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
+150701	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150702	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150703	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150704	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150705	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150706	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150707	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150708	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150709	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150710	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
+150720	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
 150731	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
-150732	Common	Common	Ninja	Harmonious Burning Heart	False		icon_skills.c12_flamebreath_awaken
+150732	Common	Common	Ninja	Burning Heart VII	False		icon_skills.c12_flamebreath
 160100	Common	Common	Ninja	Death Blossom I	False		icon_skills.c12_rotateshurikenshot
 160120	Common	Common	Ninja	Death Blossom I	False		icon_skills.c12_rotateshurikenshot
 160121	Common	Common	Ninja	Death Blossom I	False		icon_skills.c12_rotateshurikenshot
@@ -4029,43 +4037,43 @@
 190530	Common	Common	Ninja	Chakra Thrust V	False		icon_skills.c12_evadestingshot
 200100	Common	Common	Ninja	Clone Jutsu	False		icon_skills.c12_transform
 210100	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
-210111	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
+210111	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
 210112	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210113	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210115	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210116	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210117	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210118	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210120	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210121	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210122	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210123	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210124	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210125	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210130	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210131	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210132	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210133	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210134	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210135	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210140	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210141	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210142	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210143	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210144	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210145	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210150	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210151	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210190	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
-210191	Common	Common	Ninja	Harmonious Boomerang Shuriken	False		icon_skills.bumelang_tex
+210113	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210115	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210116	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210117	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210118	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210120	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210121	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210122	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210123	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210124	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210125	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210130	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210131	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210132	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210133	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210134	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210135	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210140	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210141	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210142	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210143	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210144	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210145	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210150	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210151	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210190	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
+210191	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
 220100	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
-220110	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
-220120	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
-220130	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
+220110	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
+220120	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
+220130	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
 220140	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
-220150	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
-220160	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
-220199	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
+220150	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
+220160	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
+220199	Common	Common	Ninja	Quick Attack	False		icon_skills.chakraemission_tex
 230100	Common	Common	Ninja	Inner Harmony	False		icon_skills.taoist_tex
 230130	Common	Common	Ninja	Inner Harmony	False		icon_skills.taoist_tex
 10100	Common	Common	Priest	Divine Radiance I	False		icon_skills.magicshot_tex
@@ -4264,12 +4272,12 @@
 190810	Common	Common	Priest	Focus Heal VIII	False		icon_skills.healinglightlockon_tex
 190900	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
 190910	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
-193000	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
-193010	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
-193100	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
-193110	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
-193200	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
-193210	Common	Common	Priest	Focus Healunk	False		icon_skills.healinglightlockon_tex
+193000	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
+193010	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
+193100	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
+193110	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
+193200	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
+193210	Common	Common	Priest	Focus Heal IX	False		icon_skills.healinglightlockon_tex
 220100	Common	Common	Priest	Kaia's Shield I	False		icon_skills.armorofprotection_tex
 220200	Common	Common	Priest	Kaia's Shield II	False		icon_skills.armorofprotection_tex
 220300	Common	Common	Priest	Kaia's Shield III	False		icon_skills.armorofprotection_tex
@@ -4489,13 +4497,15 @@
 40220	Common	Common	Reaper	Sundering Strike II	False		icon_skills.chainblow_tex
 40230	Common	Common	Reaper	Sundering Strike II	False		icon_skills.chainblow_tex
 40300	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
-40320	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
+40320	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
 40330	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
 40331	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
-40340	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
-40350	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
-40360	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
+40332	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
+40340	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
+40350	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
+40360	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
 40361	Common	Common	Reaper	Enhanced Sundering Strike	False		icon_skills.chainblow_awaken_tex
+40362	Common	Common	Reaper	Sundering Strike III	False		icon_skills.chainblow_tex
 50100	Common	Common	Reaper	Grim Strike I	False		icon_skills.chainsuperblow_tex
 50130	Common	Common	Reaper	Grim Strike I	False		icon_skills.chainsuperblow_tex
 50200	Common	Common	Reaper	Grim Strike II	False		icon_skills.chainsuperblow_tex
@@ -4573,9 +4583,14 @@
 150200	Common	Common	Reaper	Retribution II	False		icon_skills.counterattack_tex
 150280	Common	Common	Reaper	Retribution II	False		icon_skills.counterattack_tex
 150300	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150301	Common	Common	Reaper	Reckoning	False		icon_skills.counterattack_awaken_tex
 150330	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
 150380	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
 150381	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150382	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150390	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150391	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150392	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
 160100	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
 163100	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
 163200	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
@@ -4889,16 +4904,16 @@
 190300	Common	Common	Slayer	Tenacity III	False		icon_skills.tenacity_tex
 190400	Common	Common	Slayer	Tenacity IV	False		icon_skills.tenacity_tex
 190500	Common	Common	Slayer	Tenacity V	False		icon_skills.tenacity_tex
-193100	Common	Common	Slayer	Tenacityunk	False		icon_skills.tenacity_tex
-193200	Common	Common	Slayer	Tenacityunk	False		icon_skills.tenacity_tex
-193300	Common	Common	Slayer	Tenacityunk	False		icon_skills.tenacity_tex
+193100	Common	Common	Slayer	Tenacity III	False		icon_skills.tenacity_tex
+193200	Common	Common	Slayer	Tenacity III	False		icon_skills.tenacity_tex
+193300	Common	Common	Slayer	Tenacity III	False		icon_skills.tenacity_tex
 200100	Common	Common	Slayer	In Cold Blood I	False		icon_skills.destructionvigor_tex
 200200	Common	Common	Slayer	In Cold Blood II	False		icon_skills.destructionvigor_tex
 200300	Common	Common	Slayer	In Cold Blood II	False		icon_skills.destructionvigor_tex
 200400	Common	Common	Slayer	In Cold Blood IV	False		icon_skills.destructionvigor_tex
-203100	Common	Common	Slayer	In Cold Bloodunk	False		icon_skills.destructionvigor_tex
-203200	Common	Common	Slayer	In Cold Bloodunk	False		icon_skills.destructionvigor_tex
-203300	Common	Common	Slayer	In Cold Bloodunk	False		icon_skills.destructionvigor_tex
+203100	Common	Common	Slayer	In Cold Blood II	False		icon_skills.destructionvigor_tex
+203200	Common	Common	Slayer	In Cold Blood II	False		icon_skills.destructionvigor_tex
+203300	Common	Common	Slayer	In Cold Blood II	False		icon_skills.destructionvigor_tex
 210100	Common	Common	Slayer	Exhausting Blow	False		icon_skills.veinslash_tex
 210200	Common	Common	Slayer	Exhausting Blow	False		icon_skills.veinslash_tex
 210300	Common	Common	Slayer	Exhausting Blow	False		icon_skills.veinslash_tex
@@ -5216,6 +5231,7 @@
 80500	Common	Common	Sorcerer	Flame Pillar V	False		icon_skills.auraburn_tex
 80600	Common	Common	Sorcerer	Flame Pillar VI	False		icon_skills.auraburn_tex
 80700	Common	Common	Sorcerer	Flame Pillar VII	False		icon_skills.auraburn_tex
+80701	Common	Common	Sorcerer	Flame Pillar VII	False		icon_skills.auraburn_tex
 80800	Common	Common	Sorcerer	Flame Pillar VIII	False		icon_skills.auraburn_tex
 80900	Common	Common	Sorcerer	Flame Pillar IX	False		icon_skills.auraburn_tex
 81000	Common	Common	Sorcerer	Flame Pillar X	False		icon_skills.auraburn_tex
@@ -6515,8 +6531,13 @@
 11203	Common	Common	Warrior	Combo Attack XII	False		icon_skills.comboattack_tex
 20100	Common	Common	Warrior	Evasive Roll	False		icon_skills.tumbling_tex
 30100	Common	Common	Warrior	Torrent of Blows I	False		icon_skills.nanmu_tex
+30130	Common	Common	Warrior	Torrent of Blows I	False		icon_skills.nanmu_tex
 30200	Common	Common	Warrior	Torrent of Blows II	False		icon_skills.nanmu_tex
+30230	Common	Common	Warrior	Torrent of Blows II	False		icon_skills.nanmu_tex
 30300	Common	Common	Warrior	Torrent of Blows III	False		icon_skills.nanmu_tex
+30330	Common	Common	Warrior	Torrent of Blows III	False		icon_skills.nanmu_tex
+30400	Common	Common	Warrior	Enhanced Torrent of Blows	False		icon_skills.nanmu_tex
+30430	Common	Common	Warrior	Enhanced Torrent of Blows	False		icon_skills.nanmu_tex
 40100	Common	Common	Warrior	Rain of Blows I	False		icon_skills.pointattack_tex
 40130	Common	Common	Warrior	Rain of Blows I	False		icon_skills.pointattack_tex
 40200	Common	Common	Warrior	Rain of Blows II	False		icon_skills.pointattack_tex
@@ -13420,7 +13441,7 @@
 98140055	Common	Common	Common	Ancient Dragon's Wings			icon_status.battlecommand04_tex
 98140057	Common	Common	Common	All-Purpose Potion			icon_items.union_quickheal_tex
 98140058	Common	Common	Common	Unstable Bomb of Cooling			icon_items.homonpcrts2c_tex
-98140060	Common	Common	Common	[Event] Icefish Bait			icon_items.worm01_tex
+98140060	Common	Common	Common	[Event] Polar Bait			icon_items.worm01_tex
 98140062	Common	Common	Common	Slowdown Potion			icon_items.potion9_tex
 98140064	Common	Common	Common	Dawnspur Carrot			icon_items.fallfestival_carrot_tex
 98140157	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
@@ -13552,6 +13573,9 @@
 98245092	Common	Common	Common	Summon: Swift Black Pegasus			icon_skills.vehicle_pegasus_black_tex
 98245093	Common	Common	Common	Summon: Mythical Swift Star Trail			icon_skills.vehicle_unicon_bf_b_tex
 98245094	Common	Common	Common	Summon: Mythical Swift Frost Monarch			icon_skills.vehicle_winterdragon_b_tex
+98245095	Common	Common	Common	Flight: Starwynder			icon_skills.vehicle_starphoenix_tex
+98245096	Common	Common	Common	Summon: Mighty Shandra Manaya			icon_skills.vehicle_sandramanaia_a_tex
+98245097	Common	Common	Common	Summon: Mighty Shandra Manaya (Limited Time)			icon_skills.vehicle_sandramanaia_a_tex
 98340001	Common	Common	Common	Lower Guild Supplies			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	Heroic Oath Weapon Box			icon_items.gift_box04_tex
 98340011	Common	Common	Common	Heroic Oath Armor Box (Body)			icon_items.gift_box04_tex
@@ -13563,6 +13587,7 @@
 98340017	Common	Common	Common	Vanguard Reward Box 460			icon_items.tresurebox2_tex
 98340018	Common	Common	Common	Vanguard Reward Box			icon_items.f2p_rewardboxlower_tex
 98340019	Common	Common	Common	Banyaka's Treasure			icon_items.guylian_secret_box_tex
+98340020	Common	Common	Common	Soft Present			icon_items.gift_box02_tex
 99910007	Common	Common	Common	Healing Potion			icon_items.hp_durable_potion_level_49_tex
 99910008	Common	Common	Common	Movement Speed Booster			icon_status.aura_of_wind_tex
 99910020	Common	Common	Common	Small Medicine			icon_items.potion2_tex
